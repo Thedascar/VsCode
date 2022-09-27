@@ -8,7 +8,7 @@
    
 </head>
 <body>
-    <h1>DescobrePais</h1>
+    <h1>Descobre Pais</h1>
     O país escolholido é: <input type="string" name="txt" id="txt">
     <input type="button" value="Verificar" onclick="pais()">
     <div id="res">
@@ -23,9 +23,9 @@
             res.innerHTML = `<p>Seu pais escolhido é : <strong>${txt1.value}</strong></p>`
             
             if (txt1.value == 'Brasil'){
-                res.innerHTML += 'É brasileiro'
+                res.innerHTML += '<p>É brasileiro</p>'
             }else{
-                res.innerHTML += 'É estrangeiro'
+                res.innerHTML += '<p>É estrangeiro</p>'
             }
         }
 
