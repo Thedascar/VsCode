@@ -1,0 +1,17 @@
+O primeiro exercício é pra fortalecer os conhecimentos de RDS.
+Crie um rds, free tier, com o nome de wordpress, usando a engine MySQL
+O serviço que vamos subir em uma EC2, será um Wordpress, aquela engine para Blog e gerenciador de conteúdo.
+Faça o setup do Wordpress, seguindo a doc oficial aqui https://wordpress.org/support/article/how-to-install-wordpress/
+Você vai editar o arquivo de config do Wordpress, como está na doc, e apontar para o seu MySQL rodando no RDS, com host, porta, usuário e senha.
+Como o RDS está sobre SSL/TLS, você precisa instalar esse certificado na sua EC2, de onde vai partir os request para o banco.
+
+O segundo exercício é sobre DynamoDB.
+Crie uma tabela com o nome de "hosts", com as propriedades de name(primary key), ip(sort key) e outras propriedades que você acha necessário para guardar informações de servers, VMS, instâncias, etc.
+Toda a interação com essa tabela, sera feita usando Python, como no mundo real, como uma aplicação de verdade.
+Se você quiser utilizar outra linguagem, fique a vontade, minha sugestão é usar Python!
+Você vai utilizar a doc oficial do Dynamo, aqui https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/GettingStarted.html
+Tem SDK(Software Development Kit) para várias linguagens.
+Seu código precisa conseguir, recuperar todos os items da tabela, criar um novo item, recuperar um item específico usando o ip como parametro de busca e outra função/método que busque por name do host. E por último, um trecho de código para deletar um item usando o name como parâmetro.
+Publique no github esse exemplo de código com a integração do DynamoDB.
+
+Boa sorte!
