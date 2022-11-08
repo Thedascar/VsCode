@@ -1,0 +1,15 @@
+C:\Users\lcs_d\OneDrive\Documentos\VsCode\NovoTeste\bin\Debug\net7.0\NovoTeste.exe
+C:\Users\lcs_d\OneDrive\Documentos\VsCode\NovoTeste\bin\Debug\net7.0\NovoTeste.deps.json
+C:\Users\lcs_d\OneDrive\Documentos\VsCode\NovoTeste\bin\Debug\net7.0\NovoTeste.runtimeconfig.json
+C:\Users\lcs_d\OneDrive\Documentos\VsCode\NovoTeste\bin\Debug\net7.0\NovoTeste.dll
+C:\Users\lcs_d\OneDrive\Documentos\VsCode\NovoTeste\bin\Debug\net7.0\NovoTeste.pdb
+C:\Users\lcs_d\OneDrive\Documentos\VsCode\NovoTeste\obj\Debug\net7.0\NovoTeste.csproj.AssemblyReference.cache
+C:\Users\lcs_d\OneDrive\Documentos\VsCode\NovoTeste\obj\Debug\net7.0\NovoTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcs_d\OneDrive\Documentos\VsCode\NovoTeste\obj\Debug\net7.0\NovoTeste.AssemblyInfoInputs.cache
+C:\Users\lcs_d\OneDrive\Documentos\VsCode\NovoTeste\obj\Debug\net7.0\NovoTeste.AssemblyInfo.cs
+C:\Users\lcs_d\OneDrive\Documentos\VsCode\NovoTeste\obj\Debug\net7.0\NovoTeste.csproj.CoreCompileInputs.cache
+C:\Users\lcs_d\OneDrive\Documentos\VsCode\NovoTeste\obj\Debug\net7.0\NovoTeste.dll
+C:\Users\lcs_d\OneDrive\Documentos\VsCode\NovoTeste\obj\Debug\net7.0\refint\NovoTeste.dll
+C:\Users\lcs_d\OneDrive\Documentos\VsCode\NovoTeste\obj\Debug\net7.0\NovoTeste.pdb
+C:\Users\lcs_d\OneDrive\Documentos\VsCode\NovoTeste\obj\Debug\net7.0\NovoTeste.genruntimeconfig.cache
+C:\Users\lcs_d\OneDrive\Documentos\VsCode\NovoTeste\obj\Debug\net7.0\ref\NovoTeste.dll

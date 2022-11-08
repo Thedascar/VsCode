@@ -1,3 +1,0 @@
-Tutorial: Delegate Access to the Billing Console
-
-https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_billing.html
