@@ -36,7 +36,7 @@ section{
 }
 section.normal{
     background-color: white;
-    color: black;
+    color: black; 
 }
 section.imagem{
     background-color: black;
