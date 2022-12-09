@@ -10,21 +10,21 @@
             font-family: Arial, Helvetica, sans-serif;
         }
         table{
-            width: 300px;
+            height: 400px;
+            width: 400px;
             /*
             border collapse junta a tabelas..
             */
             border-collapse: collapse;
         }
-        tr.linha{
-            background-color: gray;
-        }
         td{
             border: 1px solid black;
             padding: 8px;
+            text-align: center;/* alinhamento horizontal */
+            vertical-align: middle;
         }
-        td.dado{
-            background-color: yellow;
+        .numero{
+            text-align: right;
         }
     </style>
 </head>
@@ -39,28 +39,26 @@
     -->
     <table>
         <tr>
-            oi
             <td>A1</td>
             <td>B1</td>
             <td>C1</td>
         </tr>
-        <tr class="linha">
+        <tr>
             <td>A2</td>
             <td>B2</td>
-            <td>C2</td>
+            <td class="numero">C2</td>
         </tr>
         <tr>
             <td>A3</td>
             <td>B3</td>
-            <td>C3</td>
+            <td class="numero">C3</td>
         </tr>
         <tr>
             <td>A4</td>
-            <td  class="dado" >B4</td>
+            <td>B4</td>
             <td>C4</td>
         </tr>
     
     </table>
-    oi
 </body>
 </html>
